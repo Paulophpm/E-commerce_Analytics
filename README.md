@@ -1,5 +1,5 @@
 # Guia_Analise_de_Compras_com_Python
-guia de análise de compras de um site da web a partir de uma base JSON utilizando linguagem python.
+guia para servir como base, para realizar a análise de compras de um site da web a partir de um arquivo JSON utilizando linguagem python.
 
 ## Objetivo do Guia:
   O objetivo desse repertório é analisar o comportamento de compra de um site da web atravez de um arquivo e utilizar um modelo de machine learning para fazer previsões do comportamento futuros desses consumidores.
