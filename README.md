@@ -1,10 +1,10 @@
-# Guia_Analise_de_Compras_com_Python
-guia para servir como base, para realizar a análise de compras de um site da web a partir de um arquivo JSON utilizando linguagem python.
+# Ecommerce Analysis
+Análise de consumo da um site da web
 
 ## Objetivo do Guia:
-  O objetivo desse repertório é analisar o comportamento de compra de um site da web atravez de um arquivo e utilizar um modelo de machine learning para fazer previsões do comportamento futuros desses consumidores.
-  
-## O que consta nesse arquivo:
+O objetivo desse repertório é analisar o comportamento de compra de um site da web atravez de um arquivo JSON e utilizar um modelo de machine learning para fazer previsões do comportamento desses consumidores.
+
+# EDA
   
 ### Contagem de Consumidores
 
@@ -55,10 +55,13 @@ guia para servir como base, para realizar a análise de compras de um site da we
 * Preço do item
 * Valor Total de Compra
 
+### Engenharia de Atributo:
+* Adicionar colunas necessárias
+* Transformar string em tipo numérico
+
 ### Modelo de Machine Learning: 
 
 * dados para treino
 * dados para teste
+* criação do modelo
   
-## Resolução:
-  dentro do repertório existe um arquivo chamado "Resolução.ipnby" que contém a resolução do problema 
