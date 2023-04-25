@@ -1,11 +1,7 @@
 # Ecommerce Analysis
-Análise de consumo da um site da web
-
-## Objetivo do Guia:
-O objetivo desse repertório é analisar o comportamento de compra de um site da web atravez de um arquivo JSON e utilizar um modelo de machine learning para fazer previsões do comportamento desses consumidores.
+Análise de consumo da um site da web atraves de um arquivo JSON com o objetivo de utilizar um modelo de ML para fazer previsão do comportamento dos consumidores.
 
 # EDA
-  
 ### Contagem de Consumidores
 
 * Número total de consumidores
